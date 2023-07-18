@@ -1,0 +1,19 @@
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Snackbar\bin\Debug\net6.0-windows\Week 12 - Snackbar.exe
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Snackbar\bin\Debug\net6.0-windows\Week 12 - Snackbar.deps.json
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Snackbar\bin\Debug\net6.0-windows\Week 12 - Snackbar.runtimeconfig.json
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Snackbar\bin\Debug\net6.0-windows\Week 12 - Snackbar.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Snackbar\bin\Debug\net6.0-windows\Week 12 - Snackbar.pdb
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Snackbar\obj\Debug\net6.0-windows\Week 12 - Snackbar.csproj.AssemblyReference.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Snackbar\obj\Debug\net6.0-windows\Week_12___Snackbar.Form1.resources
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Snackbar\obj\Debug\net6.0-windows\Week 12 - Snackbar.csproj.GenerateResource.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Snackbar\obj\Debug\net6.0-windows\Week 12 - Snackbar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Snackbar\obj\Debug\net6.0-windows\Week 12 - Snackbar.AssemblyInfoInputs.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Snackbar\obj\Debug\net6.0-windows\Week 12 - Snackbar.AssemblyInfo.cs
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Snackbar\obj\Debug\net6.0-windows\Week 12 - Snackbar.csproj.CoreCompileInputs.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Snackbar\obj\Debug\net6.0-windows\Week 12 - Snackbar.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Snackbar\obj\Debug\net6.0-windows\refint\Week 12 - Snackbar.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Snackbar\obj\Debug\net6.0-windows\Week 12 - Snackbar.pdb
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Snackbar\obj\Debug\net6.0-windows\Week 12 - Snackbar.genruntimeconfig.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Snackbar\obj\Debug\net6.0-windows\ref\Week 12 - Snackbar.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Snackbar\obj\Debug\net6.0-windows\Week_12___Snackbar.AddSnackForm.resources
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Snackbar\obj\Debug\net6.0-windows\Week_12___Snackbar.EditForm.resources

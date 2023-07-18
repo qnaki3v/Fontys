@@ -1,0 +1,25 @@
+﻿@page
+@model WebDemo.Pages.EmployeesModel
+@using PagedList.Mvc
+@using X.PagedList.Mvc.Core
+
+
+<h1>Employees</h1>
+
+<div class="grid-container">
+    @foreach (var employee in Model.EmployeeList)
+    {
+        <div class="grid-item">
+            <img src="@employee.Avatar" alt="@employee.FirstName @employee.LastName" />
+            <h2>@employee.FirstName @employee.LastName</h2>
+            <p>@employee.Country</p>
+            <div class="details">
+                <a asp-page="/EmployeeDetails" asp-route-id="@employee.Id" class="btn btn-primary">More details</a>
+            </div>
+        </div>
+    }
+</div>
+<div class="pagination-container">
+    @Html.PagedListPager(Model.EmployeeList, page => Url.Action("Employees", new { page }))
+
+</div>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="icon" href="static/images/tabIcon.ico">
+    <title>Sensor Monitoring</title>
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/mainpage.css') }}">
+    
+</head>
+
+<body>
+    <div class="center">
+        <h1>Sensor Monitoring Dashboard</h1>
+    </div>
+    <div class="navigation">
+        <ul>
+            <li><a class="active" href="/">Home</a></li>
+            <li><a href="sensors">Sensors</a></li>
+            <li><a href="contact">Contact</a></li>
+        </ul>
+    </div>
+    
+    <h1>This is a monitoring system made by Yanislav Yanakiev</h1>
+    <p><b>Here you can see the latest information from the Yanislav Yanakiev's Arduino device.<br>
+        To do that you need to click on "Sensors" in the menu.
+    </b></p>
+
+
+    <div class="row">
+        <div class="col">
+            <h2>
+                What is Arduino ?
+            </h2>
+            <iframe width="460" height="315" src="https://www.youtube.com/embed/CSx6k-zXlLE" title="YouTube video player" 
+            frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+            </iframe>
+        </div>
+        <div class="col">
+            <h2>
+                How does Arduino look like ?
+            </h2>
+            <img src="static/images/arduino.png" alt="arduino" style="width: 500px;height:300px;" >
+        </div>
+    </div>
+</body>
+<html>

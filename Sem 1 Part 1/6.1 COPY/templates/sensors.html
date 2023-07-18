@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="icon" href="static/images/tabIcon.ico">
+  <title>Sensor Monitoring</title>
+  <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/mainpage.css') }}">
+</head>
+
+<body>
+  <div>
+    <div class="center">
+      <h1>Sensor Monitoring Dashboard</h1>
+    </div>
+    <div class="navigation">
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a class="active" href="sensors">Sensors</a></li>
+        <li><a href="contact">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+  {% if statistics_current != None %}
+  <table style="width:80%;">
+    <tr>
+      <th style="width:20%"></th>
+      <th style="width:20%">Current</th>
+      <th style="width:20%">Min</th>
+      <th style="width:20%">Max</th>
+      <th style="width:20%">Average</th>
+    </tr>
+    <tr>
+      <th>Temperature</th>
+      <td>{{statistics_current["temperature"]}} &deg;C</td>
+      <td>{{statistics_min["temperature"]}} &deg;C</td>
+      <td>{{statistics_max["temperature"]}} &deg;C</td>
+      <td>{{statistics_average["temperature"]}} &deg;C</td>
+    </tr>
+    <tr>
+      <th>Humidity</th>
+      <td>{{statistics_current["humidity"]}} %</td>
+      <td>{{statistics_min["humidity"]}} %</td>
+      <td>{{statistics_max["humidity"]}} %</td>
+      <td>{{statistics_average["humidity"]}} %</td>
+    </tr>
+    <tr>
+      <th>Brightness</th>
+      <td>{{statistics_current["lightlevel"]}} W/m2</td>
+      <td>{{statistics_min["lightlevel"]}} W/m2</td>
+      <td>{{statistics_max["lightlevel"]}} W/m2</td>
+      <td>{{statistics_average["lightlevel"]}} W/m2</td>
+    </tr>
+    {% else %}
+    <p> No data available </p>
+    {% endif %}
+    <div class ="center">
+      <h1>
+        {{time}}
+      </h1>
+    </div>
+</body>
+
+</html>

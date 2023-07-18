@@ -1,0 +1,3 @@
+SELECT DepartmentName
+FROM DEPARTMENT
+WHERE OfficeNumber LIKE '%BLDG01%'

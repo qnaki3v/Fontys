@@ -1,0 +1,17 @@
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Car application\bin\Debug\net6.0-windows\Week 11 - Car application.exe
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Car application\bin\Debug\net6.0-windows\Week 11 - Car application.deps.json
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Car application\bin\Debug\net6.0-windows\Week 11 - Car application.runtimeconfig.json
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Car application\bin\Debug\net6.0-windows\Week 11 - Car application.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Car application\bin\Debug\net6.0-windows\Week 11 - Car application.pdb
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Car application\obj\Debug\net6.0-windows\Week 11 - Car application.csproj.AssemblyReference.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Car application\obj\Debug\net6.0-windows\Week_11___Car_application.CarController.resources
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Car application\obj\Debug\net6.0-windows\Week 11 - Car application.csproj.GenerateResource.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Car application\obj\Debug\net6.0-windows\Week 11 - Car application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Car application\obj\Debug\net6.0-windows\Week 11 - Car application.AssemblyInfoInputs.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Car application\obj\Debug\net6.0-windows\Week 11 - Car application.AssemblyInfo.cs
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Car application\obj\Debug\net6.0-windows\Week 11 - Car application.csproj.CoreCompileInputs.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Car application\obj\Debug\net6.0-windows\Week 11 - Car application.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Car application\obj\Debug\net6.0-windows\refint\Week 11 - Car application.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Car application\obj\Debug\net6.0-windows\Week 11 - Car application.pdb
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Car application\obj\Debug\net6.0-windows\Week 11 - Car application.genruntimeconfig.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Car application\obj\Debug\net6.0-windows\ref\Week 11 - Car application.dll

@@ -1,0 +1,7 @@
+To win the game you need to guess the word having as little mistakes as possible.
+There is a scoring system which indicates whether you pass to the next level or not.
+Typing a letter which is not in the word takes away 1 point of your score and guessing a letter
+increases your score by 2 or 3 depending on the instances of the letter.
+When you have guessed the word your score should be 0 or positive to pass to the next one.
+If its below 0 the guessed word counter resets and you have to start over.
+After you guess correctly 5 words you win.

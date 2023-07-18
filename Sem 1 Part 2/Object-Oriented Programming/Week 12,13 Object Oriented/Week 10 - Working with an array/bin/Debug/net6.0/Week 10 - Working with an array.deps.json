@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Week 10 - Working with an array/1.0.0": {
+        "runtime": {
+          "Week 10 - Working with an array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week 10 - Working with an array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

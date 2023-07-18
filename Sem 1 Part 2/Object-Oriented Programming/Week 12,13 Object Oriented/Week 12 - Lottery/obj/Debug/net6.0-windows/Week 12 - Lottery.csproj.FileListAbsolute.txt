@@ -1,0 +1,17 @@
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Lottery\bin\Debug\net6.0-windows\Week 12 - Lottery.exe
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Lottery\bin\Debug\net6.0-windows\Week 12 - Lottery.deps.json
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Lottery\bin\Debug\net6.0-windows\Week 12 - Lottery.runtimeconfig.json
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Lottery\bin\Debug\net6.0-windows\Week 12 - Lottery.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Lottery\bin\Debug\net6.0-windows\Week 12 - Lottery.pdb
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Lottery\obj\Debug\net6.0-windows\Week 12 - Lottery.csproj.AssemblyReference.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Lottery\obj\Debug\net6.0-windows\Week_12___Lottery.Form1.resources
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Lottery\obj\Debug\net6.0-windows\Week 12 - Lottery.csproj.GenerateResource.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Lottery\obj\Debug\net6.0-windows\Week 12 - Lottery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Lottery\obj\Debug\net6.0-windows\Week 12 - Lottery.AssemblyInfoInputs.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Lottery\obj\Debug\net6.0-windows\Week 12 - Lottery.AssemblyInfo.cs
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Lottery\obj\Debug\net6.0-windows\Week 12 - Lottery.csproj.CoreCompileInputs.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Lottery\obj\Debug\net6.0-windows\Week 12 - Lottery.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Lottery\obj\Debug\net6.0-windows\refint\Week 12 - Lottery.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Lottery\obj\Debug\net6.0-windows\Week 12 - Lottery.pdb
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Lottery\obj\Debug\net6.0-windows\Week 12 - Lottery.genruntimeconfig.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 12 - Lottery\obj\Debug\net6.0-windows\ref\Week 12 - Lottery.dll

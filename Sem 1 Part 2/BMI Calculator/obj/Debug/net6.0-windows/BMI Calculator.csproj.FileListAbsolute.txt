@@ -1,0 +1,17 @@
+D:\Fontys\Sem 1 Part 2\BMI Calculator\bin\Debug\net6.0-windows\BMI Calculator.exe
+D:\Fontys\Sem 1 Part 2\BMI Calculator\bin\Debug\net6.0-windows\BMI Calculator.deps.json
+D:\Fontys\Sem 1 Part 2\BMI Calculator\bin\Debug\net6.0-windows\BMI Calculator.runtimeconfig.json
+D:\Fontys\Sem 1 Part 2\BMI Calculator\bin\Debug\net6.0-windows\BMI Calculator.dll
+D:\Fontys\Sem 1 Part 2\BMI Calculator\bin\Debug\net6.0-windows\BMI Calculator.pdb
+D:\Fontys\Sem 1 Part 2\BMI Calculator\obj\Debug\net6.0-windows\BMI Calculator.csproj.AssemblyReference.cache
+D:\Fontys\Sem 1 Part 2\BMI Calculator\obj\Debug\net6.0-windows\BMI_Calculator.Form1.resources
+D:\Fontys\Sem 1 Part 2\BMI Calculator\obj\Debug\net6.0-windows\BMI Calculator.csproj.GenerateResource.cache
+D:\Fontys\Sem 1 Part 2\BMI Calculator\obj\Debug\net6.0-windows\BMI Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fontys\Sem 1 Part 2\BMI Calculator\obj\Debug\net6.0-windows\BMI Calculator.AssemblyInfoInputs.cache
+D:\Fontys\Sem 1 Part 2\BMI Calculator\obj\Debug\net6.0-windows\BMI Calculator.AssemblyInfo.cs
+D:\Fontys\Sem 1 Part 2\BMI Calculator\obj\Debug\net6.0-windows\BMI Calculator.csproj.CoreCompileInputs.cache
+D:\Fontys\Sem 1 Part 2\BMI Calculator\obj\Debug\net6.0-windows\BMI Calculator.dll
+D:\Fontys\Sem 1 Part 2\BMI Calculator\obj\Debug\net6.0-windows\refint\BMI Calculator.dll
+D:\Fontys\Sem 1 Part 2\BMI Calculator\obj\Debug\net6.0-windows\BMI Calculator.pdb
+D:\Fontys\Sem 1 Part 2\BMI Calculator\obj\Debug\net6.0-windows\BMI Calculator.genruntimeconfig.cache
+D:\Fontys\Sem 1 Part 2\BMI Calculator\obj\Debug\net6.0-windows\ref\BMI Calculator.dll

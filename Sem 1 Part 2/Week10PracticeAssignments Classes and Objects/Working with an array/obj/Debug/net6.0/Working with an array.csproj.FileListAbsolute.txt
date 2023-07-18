@@ -1,0 +1,15 @@
+D:\Fontys\Sem 1 Part 2\Week10PracticeAssignments Classes and Objects\Working with an array\bin\Debug\net6.0\Working with an array.exe
+D:\Fontys\Sem 1 Part 2\Week10PracticeAssignments Classes and Objects\Working with an array\bin\Debug\net6.0\Working with an array.deps.json
+D:\Fontys\Sem 1 Part 2\Week10PracticeAssignments Classes and Objects\Working with an array\bin\Debug\net6.0\Working with an array.runtimeconfig.json
+D:\Fontys\Sem 1 Part 2\Week10PracticeAssignments Classes and Objects\Working with an array\bin\Debug\net6.0\Working with an array.dll
+D:\Fontys\Sem 1 Part 2\Week10PracticeAssignments Classes and Objects\Working with an array\bin\Debug\net6.0\Working with an array.pdb
+D:\Fontys\Sem 1 Part 2\Week10PracticeAssignments Classes and Objects\Working with an array\obj\Debug\net6.0\Working with an array.csproj.AssemblyReference.cache
+D:\Fontys\Sem 1 Part 2\Week10PracticeAssignments Classes and Objects\Working with an array\obj\Debug\net6.0\Working with an array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fontys\Sem 1 Part 2\Week10PracticeAssignments Classes and Objects\Working with an array\obj\Debug\net6.0\Working with an array.AssemblyInfoInputs.cache
+D:\Fontys\Sem 1 Part 2\Week10PracticeAssignments Classes and Objects\Working with an array\obj\Debug\net6.0\Working with an array.AssemblyInfo.cs
+D:\Fontys\Sem 1 Part 2\Week10PracticeAssignments Classes and Objects\Working with an array\obj\Debug\net6.0\Working with an array.csproj.CoreCompileInputs.cache
+D:\Fontys\Sem 1 Part 2\Week10PracticeAssignments Classes and Objects\Working with an array\obj\Debug\net6.0\Working with an array.dll
+D:\Fontys\Sem 1 Part 2\Week10PracticeAssignments Classes and Objects\Working with an array\obj\Debug\net6.0\refint\Working with an array.dll
+D:\Fontys\Sem 1 Part 2\Week10PracticeAssignments Classes and Objects\Working with an array\obj\Debug\net6.0\Working with an array.pdb
+D:\Fontys\Sem 1 Part 2\Week10PracticeAssignments Classes and Objects\Working with an array\obj\Debug\net6.0\Working with an array.genruntimeconfig.cache
+D:\Fontys\Sem 1 Part 2\Week10PracticeAssignments Classes and Objects\Working with an array\obj\Debug\net6.0\ref\Working with an array.dll

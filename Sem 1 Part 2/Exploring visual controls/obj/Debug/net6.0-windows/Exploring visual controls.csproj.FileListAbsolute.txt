@@ -1,0 +1,17 @@
+D:\Fontys\Sem 1 Part 2\Exploring visual controls\bin\Debug\net6.0-windows\Exploring visual controls.exe
+D:\Fontys\Sem 1 Part 2\Exploring visual controls\bin\Debug\net6.0-windows\Exploring visual controls.deps.json
+D:\Fontys\Sem 1 Part 2\Exploring visual controls\bin\Debug\net6.0-windows\Exploring visual controls.runtimeconfig.json
+D:\Fontys\Sem 1 Part 2\Exploring visual controls\bin\Debug\net6.0-windows\Exploring visual controls.dll
+D:\Fontys\Sem 1 Part 2\Exploring visual controls\bin\Debug\net6.0-windows\Exploring visual controls.pdb
+D:\Fontys\Sem 1 Part 2\Exploring visual controls\obj\Debug\net6.0-windows\Exploring visual controls.csproj.AssemblyReference.cache
+D:\Fontys\Sem 1 Part 2\Exploring visual controls\obj\Debug\net6.0-windows\Exploring_visual_controls.Form1.resources
+D:\Fontys\Sem 1 Part 2\Exploring visual controls\obj\Debug\net6.0-windows\Exploring visual controls.csproj.GenerateResource.cache
+D:\Fontys\Sem 1 Part 2\Exploring visual controls\obj\Debug\net6.0-windows\Exploring visual controls.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fontys\Sem 1 Part 2\Exploring visual controls\obj\Debug\net6.0-windows\Exploring visual controls.AssemblyInfoInputs.cache
+D:\Fontys\Sem 1 Part 2\Exploring visual controls\obj\Debug\net6.0-windows\Exploring visual controls.AssemblyInfo.cs
+D:\Fontys\Sem 1 Part 2\Exploring visual controls\obj\Debug\net6.0-windows\Exploring visual controls.csproj.CoreCompileInputs.cache
+D:\Fontys\Sem 1 Part 2\Exploring visual controls\obj\Debug\net6.0-windows\Exploring visual controls.dll
+D:\Fontys\Sem 1 Part 2\Exploring visual controls\obj\Debug\net6.0-windows\refint\Exploring visual controls.dll
+D:\Fontys\Sem 1 Part 2\Exploring visual controls\obj\Debug\net6.0-windows\Exploring visual controls.pdb
+D:\Fontys\Sem 1 Part 2\Exploring visual controls\obj\Debug\net6.0-windows\Exploring visual controls.genruntimeconfig.cache
+D:\Fontys\Sem 1 Part 2\Exploring visual controls\obj\Debug\net6.0-windows\ref\Exploring visual controls.dll

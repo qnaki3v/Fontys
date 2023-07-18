@@ -1,0 +1,17 @@
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Finances\bin\Debug\net6.0-windows\Week 11 - Finances.exe
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Finances\bin\Debug\net6.0-windows\Week 11 - Finances.deps.json
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Finances\bin\Debug\net6.0-windows\Week 11 - Finances.runtimeconfig.json
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Finances\bin\Debug\net6.0-windows\Week 11 - Finances.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Finances\bin\Debug\net6.0-windows\Week 11 - Finances.pdb
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Finances\obj\Debug\net6.0-windows\Week 11 - Finances.csproj.AssemblyReference.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Finances\obj\Debug\net6.0-windows\Week_11___Finances.Form1.resources
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Finances\obj\Debug\net6.0-windows\Week 11 - Finances.csproj.GenerateResource.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Finances\obj\Debug\net6.0-windows\Week 11 - Finances.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Finances\obj\Debug\net6.0-windows\Week 11 - Finances.AssemblyInfoInputs.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Finances\obj\Debug\net6.0-windows\Week 11 - Finances.AssemblyInfo.cs
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Finances\obj\Debug\net6.0-windows\Week 11 - Finances.csproj.CoreCompileInputs.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Finances\obj\Debug\net6.0-windows\Week 11 - Finances.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Finances\obj\Debug\net6.0-windows\refint\Week 11 - Finances.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Finances\obj\Debug\net6.0-windows\Week 11 - Finances.pdb
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Finances\obj\Debug\net6.0-windows\Week 11 - Finances.genruntimeconfig.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 12,13 Object Oriented\Week 11 - Finances\obj\Debug\net6.0-windows\ref\Week 11 - Finances.dll

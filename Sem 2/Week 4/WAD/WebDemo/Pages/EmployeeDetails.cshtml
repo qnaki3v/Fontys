@@ -1,0 +1,26 @@
+﻿@page
+@model WebDemo.Pages.Shared.EmployeeDetailsModel
+@{
+}
+
+
+<div class="card">
+    <div class="card-header">
+        <h4>@Model.Employee.FirstName @Model.Employee.LastName</h4>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-3">
+                <img src="@Model.Employee.Avatar" alt="@Model.Employee.FirstName" class="img-thumbnail" />
+            </div>
+            <div class="col-md-9">
+                <h5>@Model.Employee.Email</h5>
+                <p>@Model.Employee.StreetName</p>
+                <p>@Model.Employee.StreetNumber</p>
+                <p>@Model.Employee.ZipCode</p>
+                <p>@Model.Employee.City</p>
+                <p>@Model.Employee.Country</p>
+            </div>
+        </div>
+    </div>
+</div>

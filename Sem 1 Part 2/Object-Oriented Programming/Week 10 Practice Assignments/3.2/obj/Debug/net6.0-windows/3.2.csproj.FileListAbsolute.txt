@@ -1,0 +1,17 @@
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.2\bin\Debug\net6.0-windows\3.2.exe
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.2\bin\Debug\net6.0-windows\3.2.deps.json
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.2\bin\Debug\net6.0-windows\3.2.runtimeconfig.json
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.2\bin\Debug\net6.0-windows\3.2.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.2\bin\Debug\net6.0-windows\3.2.pdb
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.2\obj\Debug\net6.0-windows\3.2.csproj.AssemblyReference.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.2\obj\Debug\net6.0-windows\_3._2.Form1.resources
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.2\obj\Debug\net6.0-windows\3.2.csproj.GenerateResource.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.2\obj\Debug\net6.0-windows\3.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.2\obj\Debug\net6.0-windows\3.2.AssemblyInfoInputs.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.2\obj\Debug\net6.0-windows\3.2.AssemblyInfo.cs
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.2\obj\Debug\net6.0-windows\3.2.csproj.CoreCompileInputs.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.2\obj\Debug\net6.0-windows\3.2.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.2\obj\Debug\net6.0-windows\refint\3.2.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.2\obj\Debug\net6.0-windows\3.2.pdb
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.2\obj\Debug\net6.0-windows\3.2.genruntimeconfig.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.2\obj\Debug\net6.0-windows\ref\3.2.dll

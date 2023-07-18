@@ -1,0 +1,17 @@
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.4\bin\Debug\net6.0-windows\3.4.exe
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.4\bin\Debug\net6.0-windows\3.4.deps.json
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.4\bin\Debug\net6.0-windows\3.4.runtimeconfig.json
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.4\bin\Debug\net6.0-windows\3.4.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.4\bin\Debug\net6.0-windows\3.4.pdb
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.4\obj\Debug\net6.0-windows\3.4.csproj.AssemblyReference.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.4\obj\Debug\net6.0-windows\_3._4.Form1.resources
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.4\obj\Debug\net6.0-windows\3.4.csproj.GenerateResource.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.4\obj\Debug\net6.0-windows\3.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.4\obj\Debug\net6.0-windows\3.4.AssemblyInfoInputs.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.4\obj\Debug\net6.0-windows\3.4.AssemblyInfo.cs
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.4\obj\Debug\net6.0-windows\3.4.csproj.CoreCompileInputs.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.4\obj\Debug\net6.0-windows\3.4.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.4\obj\Debug\net6.0-windows\refint\3.4.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.4\obj\Debug\net6.0-windows\3.4.pdb
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.4\obj\Debug\net6.0-windows\3.4.genruntimeconfig.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.4\obj\Debug\net6.0-windows\ref\3.4.dll

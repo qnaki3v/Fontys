@@ -1,0 +1,17 @@
+C:\Users\yaniy\Desktop\Fontys\Sem 2\Week 1\Recap & Inheritance\Student System\bin\Debug\net6.0-windows\Student System.exe
+C:\Users\yaniy\Desktop\Fontys\Sem 2\Week 1\Recap & Inheritance\Student System\bin\Debug\net6.0-windows\Student System.deps.json
+C:\Users\yaniy\Desktop\Fontys\Sem 2\Week 1\Recap & Inheritance\Student System\bin\Debug\net6.0-windows\Student System.runtimeconfig.json
+C:\Users\yaniy\Desktop\Fontys\Sem 2\Week 1\Recap & Inheritance\Student System\bin\Debug\net6.0-windows\Student System.dll
+C:\Users\yaniy\Desktop\Fontys\Sem 2\Week 1\Recap & Inheritance\Student System\bin\Debug\net6.0-windows\Student System.pdb
+C:\Users\yaniy\Desktop\Fontys\Sem 2\Week 1\Recap & Inheritance\Student System\obj\Debug\net6.0-windows\Student System.csproj.AssemblyReference.cache
+C:\Users\yaniy\Desktop\Fontys\Sem 2\Week 1\Recap & Inheritance\Student System\obj\Debug\net6.0-windows\Student_System.MainPage.resources
+C:\Users\yaniy\Desktop\Fontys\Sem 2\Week 1\Recap & Inheritance\Student System\obj\Debug\net6.0-windows\Student System.csproj.GenerateResource.cache
+C:\Users\yaniy\Desktop\Fontys\Sem 2\Week 1\Recap & Inheritance\Student System\obj\Debug\net6.0-windows\Student System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaniy\Desktop\Fontys\Sem 2\Week 1\Recap & Inheritance\Student System\obj\Debug\net6.0-windows\Student System.AssemblyInfoInputs.cache
+C:\Users\yaniy\Desktop\Fontys\Sem 2\Week 1\Recap & Inheritance\Student System\obj\Debug\net6.0-windows\Student System.AssemblyInfo.cs
+C:\Users\yaniy\Desktop\Fontys\Sem 2\Week 1\Recap & Inheritance\Student System\obj\Debug\net6.0-windows\Student System.csproj.CoreCompileInputs.cache
+C:\Users\yaniy\Desktop\Fontys\Sem 2\Week 1\Recap & Inheritance\Student System\obj\Debug\net6.0-windows\Student System.dll
+C:\Users\yaniy\Desktop\Fontys\Sem 2\Week 1\Recap & Inheritance\Student System\obj\Debug\net6.0-windows\refint\Student System.dll
+C:\Users\yaniy\Desktop\Fontys\Sem 2\Week 1\Recap & Inheritance\Student System\obj\Debug\net6.0-windows\Student System.pdb
+C:\Users\yaniy\Desktop\Fontys\Sem 2\Week 1\Recap & Inheritance\Student System\obj\Debug\net6.0-windows\Student System.genruntimeconfig.cache
+C:\Users\yaniy\Desktop\Fontys\Sem 2\Week 1\Recap & Inheritance\Student System\obj\Debug\net6.0-windows\ref\Student System.dll

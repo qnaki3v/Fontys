@@ -1,0 +1,17 @@
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.1\bin\Debug\net6.0-windows\3.1.exe
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.1\bin\Debug\net6.0-windows\3.1.deps.json
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.1\bin\Debug\net6.0-windows\3.1.runtimeconfig.json
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.1\bin\Debug\net6.0-windows\3.1.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.1\bin\Debug\net6.0-windows\3.1.pdb
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.1\obj\Debug\net6.0-windows\3.1.csproj.AssemblyReference.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.1\obj\Debug\net6.0-windows\Exploring_visual_controls.Form1.resources
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.1\obj\Debug\net6.0-windows\3.1.csproj.GenerateResource.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.1\obj\Debug\net6.0-windows\3.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.1\obj\Debug\net6.0-windows\3.1.AssemblyInfoInputs.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.1\obj\Debug\net6.0-windows\3.1.AssemblyInfo.cs
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.1\obj\Debug\net6.0-windows\3.1.csproj.CoreCompileInputs.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.1\obj\Debug\net6.0-windows\3.1.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.1\obj\Debug\net6.0-windows\refint\3.1.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.1\obj\Debug\net6.0-windows\3.1.pdb
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.1\obj\Debug\net6.0-windows\3.1.genruntimeconfig.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\3.1\obj\Debug\net6.0-windows\ref\3.1.dll

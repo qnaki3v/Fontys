@@ -1,0 +1,30 @@
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\2.6\bin\Debug\net6.0\2.6.exe
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\2.6\bin\Debug\net6.0\2.6.deps.json
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\2.6\bin\Debug\net6.0\2.6.runtimeconfig.json
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\2.6\bin\Debug\net6.0\2.6.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\2.6\bin\Debug\net6.0\2.6.pdb
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\2.6\obj\Debug\net6.0\2.6.csproj.AssemblyReference.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\2.6\obj\Debug\net6.0\2.6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\2.6\obj\Debug\net6.0\2.6.AssemblyInfoInputs.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\2.6\obj\Debug\net6.0\2.6.AssemblyInfo.cs
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\2.6\obj\Debug\net6.0\2.6.csproj.CoreCompileInputs.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\2.6\obj\Debug\net6.0\2.6.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\2.6\obj\Debug\net6.0\refint\2.6.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\2.6\obj\Debug\net6.0\2.6.pdb
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\2.6\obj\Debug\net6.0\2.6.genruntimeconfig.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Classes and Objects\2.6\obj\Debug\net6.0\ref\2.6.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 10 Practice Assignments\2.6\bin\Debug\net6.0\2.6.exe
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 10 Practice Assignments\2.6\bin\Debug\net6.0\2.6.deps.json
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 10 Practice Assignments\2.6\bin\Debug\net6.0\2.6.runtimeconfig.json
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 10 Practice Assignments\2.6\bin\Debug\net6.0\2.6.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 10 Practice Assignments\2.6\bin\Debug\net6.0\2.6.pdb
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 10 Practice Assignments\2.6\obj\Debug\net6.0\2.6.csproj.AssemblyReference.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 10 Practice Assignments\2.6\obj\Debug\net6.0\2.6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 10 Practice Assignments\2.6\obj\Debug\net6.0\2.6.AssemblyInfoInputs.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 10 Practice Assignments\2.6\obj\Debug\net6.0\2.6.AssemblyInfo.cs
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 10 Practice Assignments\2.6\obj\Debug\net6.0\2.6.csproj.CoreCompileInputs.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 10 Practice Assignments\2.6\obj\Debug\net6.0\2.6.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 10 Practice Assignments\2.6\obj\Debug\net6.0\refint\2.6.dll
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 10 Practice Assignments\2.6\obj\Debug\net6.0\2.6.pdb
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 10 Practice Assignments\2.6\obj\Debug\net6.0\2.6.genruntimeconfig.cache
+D:\Fontys\Sem 1 Part 2\Object-Oriented Programming\Week 10 Practice Assignments\2.6\obj\Debug\net6.0\ref\2.6.dll

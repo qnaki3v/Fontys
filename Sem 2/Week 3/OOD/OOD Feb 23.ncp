@@ -1,0 +1,147 @@
+<Project>
+  <Name>OOD Feb 23</Name>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.Diagram" assembly="NClass.DiagramEditor, Version=2.4.1823.0, Culture=neutral, PublicKeyToken=null">
+    <Name>Mission Control</Name>
+    <Language>CSharp</Language>
+    <Entities>
+      <Entity type="Class">
+        <Name>MissionController</Name>
+        <Access>Public</Access>
+        <Location left="624" top="104" />
+        <Size width="167" height="134" />
+        <Collapsed>False</Collapsed>
+        <Member type="Method">public void Add(Mission mission)</Member>
+        <Member type="Method">public Mission Get(string name)</Member>
+        <Member type="Method">public Mission[] GetAll()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Astronaut</Name>
+        <Access>Public</Access>
+        <Location left="195" top="351" />
+        <Size width="347" height="235" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int id</Member>
+        <Member type="Field">string name</Member>
+        <Member type="Field">char gender</Member>
+        <Member type="Field">string nationality</Member>
+        <Member type="Property">public int Id { get; }</Member>
+        <Member type="Property">public string Name { get; }</Member>
+        <Member type="Method">public void NewMethod()</Member>
+        <Member type="Constructor">public Astronaut(int id, string name, char gender, string nationality)</Member>
+        <Member type="Method">public string ToString()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Mission</Name>
+        <Access>Public</Access>
+        <Location left="624" top="362" />
+        <Size width="258" height="243" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">string name</Member>
+        <Member type="Field">DateTime launchDate</Member>
+        <Member type="Field">DateTime returnDate</Member>
+        <Member type="Field">string spaceship</Member>
+        <Member type="Property">public string Name { get; }</Member>
+        <Member type="Method">public void AddAstronaut(Astronaut astronaut)</Member>
+        <Member type="Method">public Astronaut[] GetAstronauts()</Member>
+        <Member type="Method">public int CalculateDaysInSpace()</Member>
+        <Member type="Method">public string ToString()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>AstronautController</Name>
+        <Access>Public</Access>
+        <Location left="293" top="104" />
+        <Size width="191" height="149" />
+        <Collapsed>False</Collapsed>
+        <Member type="Method">public void Add(Astronaut astronaut)</Member>
+        <Member type="Method">public Astronaut Get(string name)</Member>
+        <Member type="Method">public Astronaut Get(int id)</Member>
+        <Member type="Method">public Astronaut[] GetAll()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>AstronautStatistics</Name>
+        <Access>Public</Access>
+        <Location left="1008" top="433" />
+        <Size width="382" height="184" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int totalDaysInSpace</Member>
+        <Member type="Constructor">public AstronautStatistics(Astronaut target, Mission[] allMissions)</Member>
+        <Member type="Method">private void DetermineMissionHistory(Astronaut target, Mission[] allMissions)</Member>
+        <Member type="Method">private void CalculateTotalDaysInSpace()</Member>
+        <Member type="Method">private void DetermineFellowAstronauts(Astronaut target)</Member>
+        <Member type="Method">private void DetermineLongestMission()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+    </Entities>
+    <Relationships>
+      <Relationship type="Association" first="0" second="2">
+        <Label>manages</Label>
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>705</X>
+          <Y>263</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>705</X>
+          <Y>337</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+        <EndRole>-missions</EndRole>
+        <EndMultiplicity>*</EndMultiplicity>
+      </Relationship>
+      <Relationship type="Association" first="3" second="1">
+        <Label>manages</Label>
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+        <EndRole>-astronauts</EndRole>
+        <EndMultiplicity>*</EndMultiplicity>
+      </Relationship>
+      <Relationship type="Association" first="2" second="1">
+        <Label>has</Label>
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+        <EndRole>-astronauts</EndRole>
+        <EndMultiplicity>*</EndMultiplicity>
+      </Relationship>
+      <Relationship type="Association" first="4" second="2">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>983</X>
+          <Y>466</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+        <EndRole>-missionHistory</EndRole>
+        <EndMultiplicity>*</EndMultiplicity>
+      </Relationship>
+      <Relationship type="Association" first="4" second="2">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>983</X>
+          <Y>534</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+        <EndRole>-longestMission</EndRole>
+        <EndMultiplicity>1</EndMultiplicity>
+      </Relationship>
+    </Relationships>
+  </ProjectItem>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.Diagram" assembly="NClass.DiagramEditor, Version=2.4.1823.0, Culture=neutral, PublicKeyToken=null">
+    <Name>Untitled</Name>
+    <Language>CSharp</Language>
+    <Entities />
+    <Relationships />
+  </ProjectItem>
+</Project>
