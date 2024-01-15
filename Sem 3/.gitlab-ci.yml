@@ -1,0 +1,59 @@
+# Disable the Gradle daemon for Continuous Integration servers as correctness 
+# is usually a priority over speed in CI environments. Using a fresh 
+# runtime for each build is more reliable since the runtime is completely 
+# isolated from any previous builds. 
+variables: 
+    GRADLE_OPTS: "-Dorg.gradle.daemon=false"
+stages:
+    - build 
+    - test 
+    - sonarqube-check
+    - sonarqube-vulnerability-report
+build: 
+    stage: build 
+    script:
+        - cd Back-end
+        - ./gradlew assemble
+test: 
+    stage: test
+    script:
+        - cd Back-end
+        - ./gradlew test
+
+sonarqube-check:
+  stage: sonarqube-check
+  image: gradle:8.2.0-jdk17-jammy
+  variables:
+    SONAR_USER_HOME: "${CI_PROJECT_DIR}/.sonar"  # Defines the location of the analysis task cache
+    GIT_DEPTH: "0"  # Tells git to fetch all the branches of the project, required by the analysis task
+  cache:
+    key: "${CI_JOB_NAME}"
+    paths:
+      - .sonar/cache
+  script: 
+    - cd Back-end
+    - ./gradlew test jacocoTestReport sonarqube #-Dsonar.qualitygate.wait=true
+  allow_failure: true
+  only:
+    - merge_requests
+    - master
+    - main
+    - develop
+
+sonarqube-vulnerability-report:
+  stage: sonarqube-vulnerability-report
+  script:
+    - cd Back-end
+    - 'curl.exe -u "${SONAR_TOKEN}:" "${SONAR_HOST_URL}/api/issues/gitlab_sast_export?projectKey=I507399_WebShop_Back-end_AYu2JeRmtGfgE8hvV8q7&branch=${CI_COMMIT_BRANCH}&pullRequest=${CI_MERGE_REQUEST_IID}" -o gl-sast-sonar-report.json'
+  allow_failure: true
+  only:
+    - merge_requests
+    - master
+    - main
+    - develop
+  artifacts:
+    expire_in: 1 day
+    reports:
+      sast: gl-sast-sonar-report.json
+  dependencies:
+    - sonarqube-check
